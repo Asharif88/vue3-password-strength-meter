@@ -89,7 +89,7 @@
     "security"
   ],
   "main": "dist/dist/vue3-password-strength-meter.js",
-  "browser": "dist/dist/ue3-password-strength-meter.min.js",
+  "browser": "dist/dist/vue3-password-strength-meter.min.js",
   "scripts": {
     "play": "vue-play start",
     "play:build": "vue-play build",
