@@ -7,3 +7,5 @@ hotClient.subscribe(function (event) {
     window.location.reload()
   }
 })
+
+console.log('Dev client removed. Use Vite dev server (`npm run dev`).')

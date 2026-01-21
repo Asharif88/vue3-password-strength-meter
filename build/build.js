@@ -34,3 +34,5 @@ webpack(webpackConfig, function (err, stats) {
     chunkModules: false
   }) + '\n')
 })
+
+console.log('This project uses Vite for building. Run `npm run build`.')

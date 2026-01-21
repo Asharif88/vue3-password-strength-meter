@@ -70,3 +70,6 @@ if (process.env.NODE_ENV === 'production') {
     // new ExtractTextPlugin(utils.assetsPath('css/[name].[contenthash].css')),
   ]
 }
+
+// Removed in Vite migration. Use `npm run build` (vite build) to produce `dist/`.
+module.exports = {}
