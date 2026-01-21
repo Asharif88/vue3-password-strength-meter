@@ -75,3 +75,7 @@ module.exports = app.listen(port, function (err) {
     opn(uri)
   }
 })
+
+// This file used to start the webpack dev-server. Use Vite's dev server instead via `npm run dev`.
+console.log('Start the dev server with: npm run dev')
+module.exports = {}
